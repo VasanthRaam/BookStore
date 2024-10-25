@@ -1,0 +1,37 @@
+[
+    {
+      "BookTitle": "JavaScript: The Good Parts",
+      "ISBN": 9780596517748,
+      "Author": "Douglas Crockford",
+      "Category": "Programming",
+      "Quantity": 10
+    },
+    {
+      "BookTitle": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "ISBN": 9780132350884,
+      "Author": "Robert C. Martin",
+      "Category": "Software Engineering",
+      "Quantity": 5
+    },
+    {
+      "BookTitle": "The Pragmatic Programmer: Your Journey to Mastery",
+      "ISBN": 9780135957059,
+      "Author": "Andrew Hunt, David Thomas",
+      "Category": "Programming",
+      "Quantity": 8
+    },
+    {
+      "BookTitle": "Introduction to Algorithms",
+      "ISBN": 9780262033848,
+      "Author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+      "Category": "Algorithms",
+      "Quantity": 12
+    },
+    {
+      "BookTitle": "Artificial Intelligence: A Modern Approach",
+      "ISBN": 9780136042594,
+      "Author": "Stuart Russell, Peter Norvig",
+      "Category": "Artificial Intelligence",
+      "Quantity": 7
+    }
+  ]
